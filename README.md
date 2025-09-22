@@ -12,7 +12,7 @@
    -En primer lugar, ayudaremos a localizar aparcamiento en Albacete.
    -En segundo paso, motivaremos la colaboración ciudadana mediante puntos/recompensas por informar sobre plazas        libres.
    -Ahora, compartiremos información de transporte público aunque, al menos, sea simulada.
-   -En último lugar, facilitaremos que los ciudadanos ahorren tiempo y reduzcan el tráfico lo máximo posible.
+   -En último lugar, lo que haremos será facilitar que los ciudadanos ahorren tiempo y reduzcan el tráfico lo         máximo que se pueda.
 
    
 
