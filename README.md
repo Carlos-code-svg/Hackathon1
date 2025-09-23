@@ -18,11 +18,11 @@ A continuación, pasaremos a detallar los objetivos que hemos de conseguir con e
    -Ahora, compartiremos información de transporte público aunque, al menos, sea simulada.
    -En último lugar, lo que haremos será facilitar que los ciudadanos ahorren tiempo y reduzcan el tráfico lo máximo que se pueda.
 
-ESTRUCTURA DE NUESTRA APLICACIÓN
+ESTRUCTURA DE NUESTRA APLICACIÓN "Albacete ¡Ponte en Marcha!"
 
 -La estructura de nuestra aplicación, será la siguiente:
   1. Una pantalla de inicio, la cual va a incluir el logo de la app, el nombre y un botón que pueda acceder al mapa de aparcamiento.
-  2. Dentro del mapa de aparcamiento, incluiremos el número de plazas disponibles, un botón donde el ciudadano pueda marcar la plaza que queda libre.
+  2. Dentro del mapa de aparcamiento, incluiremos el número de plazas disponibles, un botón donde el ciudadano pueda marcar la plaza que queda        libre.
   3. Horarios de autobuses, donde incluiremos una lista de todas las líneas y los horarios y paradas que realizarán.
   4. Una movilidad que sea compartida con la ciudadanía, donde se pueda indicar el destino y que aparezca una lista de usuarios que se dirijan al        mismo destino.
   5. Un perfil de usuario, donde aparecerán los puntos acumulados de cada usuario y un historial de colaboraciones.
