@@ -33,6 +33,10 @@ TECNOLOGÍAS A UTILIZAR EN ESTA PRÁCTICA
 -Como diseño, implementaremos un XML para controlar los layouts.
 -En la parte de navegación, usaremos "Navigation Component".
 -Para simular los datos, usaremos JSON o Firebase.
+-Android Studio será la aplicación que usaremos.
 -Por último, para el mapeado, "Google Mpas API".
+
+
+
    
 
