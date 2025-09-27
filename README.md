@@ -32,6 +32,7 @@ TECNOLOGÍAS A UTILIZAR EN ESTA PRÁCTICA
 -Vamos a implementar el lenguaje Java, que es el que hemos utilizado el año pasado en 1º DAM.
 -Como diseño, implementaremos un XML para controlar los layouts.
 -Android Studio será la aplicación que usaremos.
+-Usaremos estas tecnologías debido a que nos va a resultar bastante más fácil organizar y planificar el trabajo en este tipo de apps. Son más intuitivas.
 
 
 
