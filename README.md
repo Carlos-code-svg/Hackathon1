@@ -1,6 +1,7 @@
 PLANIFICACIÓN DE IDEAS
 
 1º. La idea, es empezar diseñando una aplicación para corregir el problema de movilidad urbana que hay en nuestra ciudad (en nuestro caso, Albacete).
+2º. Esta práctica, la he diseñado yo sólo sin estar en ningún grupo debido a que ya la tenía bastante planificada y desarrollada, el siguiente me pondré con algún compañero que quiera ayudarme y esté dispuesto para hacerla.
 
 PASOS A SEGUIR
 
