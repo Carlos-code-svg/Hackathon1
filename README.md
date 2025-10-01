@@ -1,3 +1,5 @@
+SPRINT1
+
 PLANIFICACIÓN DE IDEAS
 
 1º. La idea, es empezar diseñando una aplicación para corregir el problema de movilidad urbana que hay en nuestra ciudad (en nuestro caso, Albacete).
@@ -34,6 +36,21 @@ TECNOLOGÍAS A UTILIZAR EN ESTA PRÁCTICA
 -Como diseño, implementaremos un XML para controlar los layouts.
 -Android Studio será la aplicación que usaremos.
 -Usaremos estas tecnologías debido a que nos va a resultar bastante más fácil organizar y planificar el trabajo en este tipo de apps. Son más intuitivas.
+
+SPRINT2
+
+TECNOLOGÍAS A UTILIZAR EN EL DIAGRAMA DE DESPLIEGUE
+
+-Componentes --> Una App móvil, Backend, Base de datos, API geolocalización, Repositorio de código y Gestión del proyecto.
+
+-Tecnologías --> Flutter para la app móvil, Lenguaje Python para desarrollar el backend, PostgreSQL para la base de datos, Leaflet para la API, GitHub para mi repositorio y Trello para la gestión del proyecto.
+
+-Elección de tecnologías --> He elegido estas ya que nos permite crear apps multiplataforma teniendo una sola base de código. Además, son intuitivas y visuales para organizar las tareas por sprints.
+
+
+
+
+
 
 
 
